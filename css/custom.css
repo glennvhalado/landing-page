@@ -1,0 +1,37 @@
+.btn-primary {
+    background: orange;
+    border: 0px;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background: rgb(216, 142, 5);
+    border: 0px;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0E5;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173A56;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid #a6b7c9;
+    color: #173A56;
+}
+
+.hero-bwa h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.hero-bwa p {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
